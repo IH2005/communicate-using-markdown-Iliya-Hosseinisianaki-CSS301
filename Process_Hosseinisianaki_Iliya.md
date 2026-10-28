@@ -26,3 +26,8 @@ Date: 10/27/2026
 ## Create personal projects
 
 ## Build a tailored technical portfolio using past projects
+
+## References
+<div style="padding-left: 2em; text-indent: -2em;">
+[1.] Zero to Mastery, “How to Become a Game Developer & Get Hired.” Zero To Mastery. Accessed: Oct. 27, 2026. [Online]. Available: https://zerotomastery.io/career-paths/become-a-game-developer/
+</div>
