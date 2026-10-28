@@ -15,6 +15,9 @@ Date: 10/27/2026
 - [Create personal projects](#create-personal-projects)
 - [Build a tailored technical portfolio using past projects](#build-a-tailored-technical-portfolio-using-past-projects)
 
+## Purpose
+
+
 ## Choose a specialization of game programmer
 
 <img alt="Game programmer roles" src="https://i.imgur.com/tcoKP0J.png" width="600" height="500"><br>(Placeholder image)
