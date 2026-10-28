@@ -1,4 +1,7 @@
 # Best Practices to Become a Game Programmer
+<img alt="Game programmer" src="" width="600" height="500">
+© Image from Zero to Mastery, “How to Become a Game Developer & Get Hired.”
+
 Prepared for: Husky student pursuing a job as a game programmer
 
 Prepared by: Iliya Hosseinisianaki
@@ -14,6 +17,9 @@ Date: 10/27/2026
 - [Build a tailored technical portfolio using past projects](#build-a-tailored-technical-portfolio-using-past-projects)
 
 ## Choose a specialization of game programmer
+
+<img alt="Game programmer roles" src="https://i.imgur.com/tcoKP0J.png" width="600" height="500">
+(Placeholder image)
 
 ## Build up a technical foundation
 
