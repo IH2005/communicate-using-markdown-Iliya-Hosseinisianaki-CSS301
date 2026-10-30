@@ -27,8 +27,8 @@ Read real job postings for each specialization to learn what studios expect from
 
 ## Build up a specialized technical foundation
 
-
 ### Take courses on Coursera
+
 
 ### Attend game jams
 
