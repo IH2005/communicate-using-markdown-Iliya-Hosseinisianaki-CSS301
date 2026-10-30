@@ -29,7 +29,6 @@ Read real job postings for each specialization to learn what studios expect from
 
 ### Take courses on Coursera
 
-
 ### Attend game jams
 
 ### Do internships
@@ -43,11 +42,11 @@ Read real job postings for each specialization to learn what studios expect from
 <table>
   <tr>
     <td valign="top">[1]</td>
-    <td>“Become a Game Developer” Zero To Mastery. Accessed: Oct. 27, 2026. [Online]. Available: https://zerotomastery.io/career-paths/become-a-game-developer/</td>
+    <td>“Become a Game Developer” Zero To Mastery. [Online]. Available: https://zerotomastery.io/career-paths/become-a-game-developer/. [Accessed: Oct. 27, 2026]</td>
   </tr>
   <tr>
     <td valign="top">[2]</td>
-    <td>“Epic Career Paths,” Epic Games. Accessed: Oct. 27, 2026. [Online]. Available: https://www.epicgames.com/site/earlycareers/career-paths?lang=en</td>
+    <td>“Epic Career Paths,” Epic Games. [Online]. Available: https://www.epicgames.com/site/earlycareers/career-paths?lang=en. [Accessed: Oct. 27, 2026]</td>
   </tr>
 </table>
 
