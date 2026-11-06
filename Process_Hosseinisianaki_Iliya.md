@@ -23,7 +23,7 @@ When you search through game studio job postings, you’ll rarely find an openin
 
 Read real job postings for each specialization to learn what studios expect from the role. Pull up several entry-level and internship postings for gameplay, AI, rendering, tools, and engine programmers from studios such as Epic Games, Riot, and Blizzard, since these reflect what you’ll be expected to know when you graduate.
 
-<img alt="Game programmer roles" src="https://i.imgur.com/tcoKP0J.png" width="600" height="500"><br>(Placeholder image)
+<img alt="Game programmer" src="images/game-developer-banner.png" width="600" height="500"><br><sub>© Venn diagram created on Creately</sub>
 
 ## Build up a specialized technical foundation
 
