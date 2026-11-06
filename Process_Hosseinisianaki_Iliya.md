@@ -23,7 +23,7 @@ When you search through game studio job postings, you’ll rarely find an openin
 
 Read real job postings for each specialization to learn what studios expect from the role. Pull up several entry-level and internship postings for gameplay, AI, rendering, tools, and engine programmers from studios such as Epic Games, Riot, and Blizzard, since these reflect what you’ll be expected to know when you graduate.
 
-<img alt="Game programmer" src="images/game-developer-banner.png" width="600" height="500"><br><sub>© Venn diagram created on Creately</sub>
+<img alt="Game programmer" src="images/VennDiagram.jpg" width="700" height="700"><br><sub>© Venn diagram created on Creately</sub>
 
 ## Build up a specialized technical foundation
 
@@ -46,6 +46,10 @@ Read real job postings for each specialization to learn what studios expect from
   </tr>
   <tr>
     <td valign="top">[2]</td>
+    <td>“Venn Diagram Maker” Creately. [Online]. Available: https://creately.com/lp/venn-diagram-maker/. [Accessed: Nov. 4, 2026]</td>
+  </tr>
+  <tr>
+    <td valign="top">[3]</td>
     <td>“Epic Career Paths,” Epic Games. [Online]. Available: https://www.epicgames.com/site/earlycareers/career-paths?lang=en. [Accessed: Oct. 27, 2026]</td>
   </tr>
 </table>
