@@ -64,6 +64,22 @@ Select past projects that match the studio’s genre and engine, such as racing 
   </tr>
   <tr>
     <td valign="top">[3]</td>
+    <td>“Coursera vs Udemy: Which Should You Choose?” Course Report. [Online]. Available: https://www.coursereport.com/blog/coursera-vs-udemy-which-should-you-choose. [Accessed: Nov. 4, 2026]</td>
+  </tr>
+  <tr>
+    <td valign="top">[4]</td>
+    <td>“How to get maximum benefit (and fun) from participating in a game jam” Game Developer. [Online]. Available: https://www.gamedeveloper.com/production/how-to-get-maximum-benefit-and-fun-from-participating-in-a-game-jam. [Accessed: Nov. 4, 2026]</td>
+  </tr>
+  <tr>
+    <td valign="top">[5]</td>
+    <td>“Placement Experience: Software Engineer at Criterion Games (EA)” University of Portsmouth. [Online]. Available: https://www.port.ac.uk/news-events-and-blogs/blogs/study-and-student-life/placement-experience-software-engineer-intern-criterion-games. [Accessed: Nov. 4, 2026]</td>
+  </tr>
+  <tr>
+    <td valign="top">[6]</td>
+    <td>“I want to work as a video game developer – part 2: how to get hired” targetjobs. [Online]. Available: https://targetjobs.co.uk/careers-advice/creative-arts-media-and-design/i-want-work-video-game-developer-part-2-how-get-hired. [Accessed: Nov. 4, 2026]</td>
+  </tr>
+  <tr>
+    <td valign="top">[7]</td>
     <td>“Epic Career Paths,” Epic Games. [Online]. Available: https://www.epicgames.com/site/earlycareers/career-paths?lang=en. [Accessed: Oct. 27, 2026]</td>
   </tr>
 </table>
