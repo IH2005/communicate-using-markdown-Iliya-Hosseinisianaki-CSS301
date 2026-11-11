@@ -8,11 +8,11 @@ Prepared by: Iliya Hosseinisianaki
 Date: 10/27/2026
 ## Table of Contents
 - [Choose a specialization of game programmer](#choose-a-specialization-of-game-programmer)
-- [Build up a technical foundation](#build-up-a-technical-foundation)
-  - [Take courses outside of school](#take-courses-outside-of-school)
+- [Build up a specialized technical foundation](#build-up-a-specialized-technical-foundation)
+  - [Take courses on Coursera](#take-courses-on-coursera)
   - [Attend game jams](#attend-game-jams)
-  - [Do internships](#do-internships)
-- [Create personal projects](#create-personal-projects)
+  - [Do internships at game studios](#do-internships-at-game-studios)
+- [Create and publish games using game engines](#create-and-publish-games-using-game-engines)
 - [Build a tailored technical portfolio using past projects](#build-a-tailored-technical-portfolio-using-past-projects)
 
 ## Purpose
