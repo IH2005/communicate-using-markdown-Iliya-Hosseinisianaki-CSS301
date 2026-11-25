@@ -7,6 +7,7 @@ Prepared by: Iliya Hosseinisianaki
 
 Date: 10/27/2026
 ## Table of Contents
+- [Purpose](#purpose)
 - [Understanding your role](#understanding-your-role)
 - [Build up a specialized technical foundation](#build-up-a-specialized-technical-foundation)
   - [Take courses on Coursera](#take-courses-on-coursera)
@@ -14,6 +15,7 @@ Date: 10/27/2026
   - [Do internships at game studios](#do-internships-at-game-studios)
 - [Create and publish games using game engines](#create-and-publish-games-using-game-engines)
 - [Build a tailored technical portfolio using past projects](#build-a-tailored-technical-portfolio-using-past-projects)
+- [References](#references)
 
 ## Purpose
 Almost everyone who applies to a game studio loves games, but far fewer can show they’re ready to build them. This guide walks you through four steps for closing that gap before you send a single resume: choosing a game programming specialization, developing the technical foundation that specialization demands, creating personal projects that put those skills to work, and turning your past projects into a portfolio tailored to the studio you want to join. The purpose of this guide is to help you show, not just say, that you’re ready to contribute to a game team, so your application stands out in a competitive field.
