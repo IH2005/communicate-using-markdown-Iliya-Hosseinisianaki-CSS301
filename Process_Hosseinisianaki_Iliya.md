@@ -56,31 +56,31 @@ Select past projects that match the studio’s genre and engine, such as racing 
 <table>
   <tr>
     <td valign="top">[1]</td>
-    <td>“Become a Game Developer” <em>Zero To Mastery</em>. [Online]. Available: https://zerotomastery.io/career-paths/become-a-game-developer/. [Accessed: Oct. 27, 2026]</td>
+    <td>Zero To Mastery, “Become a Game Developer,” <em>Zero To Mastery</em>, n.d. [Online]. Available: https://zerotomastery.io/career-paths/become-a-game-developer/. [Accessed Oct. 27, 2026].</td>
   </tr>
   <tr>
     <td valign="top">[2]</td>
-    <td>“Venn Diagram Maker” <em>Creately</em>. [Online]. Available: https://creately.com/lp/venn-diagram-maker/. [Accessed: Nov. 4, 2026]</td>
+    <td>Creately, “Venn Diagram Maker,” <em>Creately</em>, n.d. [Online]. Available: https://creately.com/lp/venn-diagram-maker/. [Accessed Nov. 4, 2026].</td>
   </tr>
   <tr>
     <td valign="top">[3]</td>
-    <td>“Coursera vs Udemy: Which Should You Choose?” <em>Course Report</em>. [Online]. Available: https://www.coursereport.com/blog/coursera-vs-udemy-which-should-you-choose. [Accessed: Nov. 4, 2026]</td>
+    <td>Jennifer Inglis, “Coursera vs Udemy: Which Should You Choose?,” <em>Course Report</em>, updated 15 September 2026. [Online]. Available: https://www.coursereport.com/blog/coursera-vs-udemy-which-should-you-choose. [Accessed Nov. 4, 2026].</td>
   </tr>
   <tr>
     <td valign="top">[4]</td>
-    <td>“How to get maximum benefit (and fun) from participating in a game jam” <em>Game Developer</em>. [Online]. Available: https://www.gamedeveloper.com/production/how-to-get-maximum-benefit-and-fun-from-participating-in-a-game-jam. [Accessed: Nov. 4, 2026]</td>
+    <td>Pavel Bokai-Poltavetz and Dmitry Osipov, “How to get maximum benefit (and fun) from participating in a game jam,” <em>Game Developer</em>, 26 September 2024. [Online]. Available: https://www.gamedeveloper.com/production/how-to-get-maximum-benefit-and-fun-from-participating-in-a-game-jam. [Accessed Nov. 4, 2026].</td>
   </tr>
   <tr>
     <td valign="top">[5]</td>
-    <td>“Placement Experience: Software Engineer at Criterion Games (EA)” <em>University of Portsmouth</em>. [Online]. Available: https://www.port.ac.uk/news-events-and-blogs/blogs/study-and-student-life/placement-experience-software-engineer-intern-criterion-games. [Accessed: Nov. 4, 2026]</td>
+    <td>University of Portsmouth, “Placement Experience: Software Engineer at Criterion Games (EA),” <em>University of Portsmouth</em>, 2 March 2021. [Online]. Available: https://www.port.ac.uk/news-events-and-blogs/blogs/study-and-student-life/placement-experience-software-engineer-intern-criterion-games. [Accessed Nov. 4, 2026].</td>
   </tr>
   <tr>
     <td valign="top">[6]</td>
-    <td>“I want to work as a video game developer – part 2: how to get hired” <em>targetjobs</em>. [Online]. Available: https://targetjobs.co.uk/careers-advice/creative-arts-media-and-design/i-want-work-video-game-developer-part-2-how-get-hired. [Accessed: Nov. 4, 2026]</td>
+    <td>Targetjobs Editorial Team, “I want to work as a video game developer – part 2: how to get hired,” <em>targetjobs</em>, 25 January 2023. [Online]. Available: https://targetjobs.co.uk/careers-advice/creative-arts-media-and-design/i-want-work-video-game-developer-part-2-how-get-hired. [Accessed Nov. 4, 2026].</td>
   </tr>
   <tr>
     <td valign="top">[7]</td>
-    <td>“Epic Career Paths,” <em>Epic Games</em>. [Online]. Available: https://www.epicgames.com/site/earlycareers/career-paths?lang=en. [Accessed: Oct. 27, 2026]</td>
+    <td>Epic Games, “Epic Career Paths,” <em>Epic Games</em>, n.d. [Online]. Available: https://www.epicgames.com/site/earlycareers/career-paths?lang=en. [Accessed Oct. 27, 2026].</td>
   </tr>
 </table>
 
