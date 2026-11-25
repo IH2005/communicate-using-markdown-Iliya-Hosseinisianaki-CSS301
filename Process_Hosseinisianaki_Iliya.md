@@ -9,12 +9,12 @@ Date: 10/27/2026
 ## Table of Contents
 - [Purpose](#purpose)
 - [Understanding the role](#understanding-the-role)
-- [Build up a specialized technical foundation](#build-up-a-specialized-technical-foundation)
-  - [Take courses on Coursera](#take-courses-on-coursera)
-  - [Attend game jams](#attend-game-jams)
-  - [Do internships at game studios](#do-internships-at-game-studios)
-- [Create and publish games using game engines](#create-and-publish-games-using-game-engines)
-- [Build a tailored technical portfolio using past projects](#build-a-tailored-technical-portfolio-using-past-projects)
+- [Building up a specialized technical foundation](#building-up-a-specialized-technical-foundation)
+  - [Taking courses on Coursera](#taking-courses-on-coursera)
+  - [Attending game jams](#attending-game-jams)
+  - [Doing internships at game studios](#doing-internships-at-game-studios)
+- [Creating and publishing games using game engines](#creating-and-publishing-games-using-game-engines)
+- [Building a tailored technical portfolio using past projects](#building-a-tailored-technical-portfolio-using-past-projects)
 - [References](#references)
 
 ## Purpose
