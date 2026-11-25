@@ -22,7 +22,7 @@ Almost everyone who applies to a game studio loves games, but far fewer can show
 
 ## Understanding your role
 
-<img alt="Game programmer" src="images/VennDiagram.jpg" width="700" height="700"><br><sub>© Venn diagram created on Creately</sub>
+<br><sub>© Venn diagram created on Creately</sub>
 
 ## Building up a specialized technical foundation
 
