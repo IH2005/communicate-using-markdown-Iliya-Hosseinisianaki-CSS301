@@ -21,9 +21,7 @@ Date: 10/27/2026
 Almost everyone who applies to a game studio loves games, but far fewer can show they’re ready to build them. This guide walks you through four steps for closing that gap before you send a single resume: choosing a game programming specialization, developing the technical foundation that specialization demands, creating personal projects that put those skills to work, and turning your past projects into a portfolio tailored to the studio you want to join. The purpose of this guide is to help you show, not just say, that you’re ready to contribute to a game team, so your application stands out in a competitive field.
 
 ## Understanding your role
-You won’t find open roles for general game programmer because a game is built from several large technical systems such as gameplay, AI, rendering, tools, and engine. All of them solve different kinds of problems, so studios write their postings around the specific system a team needs help with. The main exception you’ll see is software engineering internships. Because of this, studios tend to favor candidates with real depth in one area over candidates who know a little about everything.
 
-The figure below compares three of these specializations (gameplay, AI, and render), showing what is unique to each and what they share. Compare the outer regions to decide where you want depth and use the overlaps to see which skills carry over if you change focus later. Find job postings and articles on other specializations if these don’t interest you. 
 <img alt="Game programmer" src="images/VennDiagram.jpg" width="700" height="700"><br><sub>© Venn diagram created on Creately</sub>
 
 ## Building up a specialized technical foundation
