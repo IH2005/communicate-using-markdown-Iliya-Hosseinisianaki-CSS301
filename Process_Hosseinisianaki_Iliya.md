@@ -8,7 +8,7 @@ Prepared by: Iliya Hosseinisianaki
 Date: 10/27/2026
 ## Table of Contents
 - [Purpose](#purpose)
-- [Understanding your role](#understanding-your-role)
+- [Understanding the role](#understanding-the-role)
 - [Build up a specialized technical foundation](#build-up-a-specialized-technical-foundation)
   - [Take courses on Coursera](#take-courses-on-coursera)
   - [Attend game jams](#attend-game-jams)
@@ -20,7 +20,7 @@ Date: 10/27/2026
 ## Purpose
 Almost everyone who applies to a game studio loves games, but far fewer can show they’re ready to build them. This guide walks you through four steps for closing that gap before you send a single resume: understanding what a gameplay engineer does, developing the technical foundation that specialization demands, creating personal projects that put those skills to work, and turning your past projects into a portfolio tailored to the studio you want to join. The purpose of this guide is to help you show, not just say, that you’re ready to contribute to a game team, so your application stands out in a competitive field.
 
-## Understanding your role
+## Understanding the role
 
 <br><sub>© Venn diagram created on Creately</sub>
 
