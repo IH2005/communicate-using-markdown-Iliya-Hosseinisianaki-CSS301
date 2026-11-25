@@ -27,7 +27,7 @@ Almost everyone who applies to a game studio loves games, but far fewer can show
 ## Building up a specialized technical foundation
 
 ### Taking courses on Coursera
-Coursera provides you with courses that teach you programming languages that game studios require, and it works as a supplement for college courses. There are also courses that teach you how to use those programming skills you have learnt for specific game engines. These courses come from universities and companies such as Stanford and Google, so certifications of completing these courses from them are recognized by potential employers.
+Coursera provides you with courses that teach you programming languages that game studios require, and it works as a supplement for college courses. There are also courses that teach you how to use those programming skills you have learnt for specific game engines. These courses come from universities and companies such as Stanford and Google, so certifications of completing these courses from them are recognized by potential employers [^3].
 
 Choose courses in the language your target role uses, such as C++ or C#. After finishing one course of the targeted language, take the course that teaches how to use that language in a game engine such as using C++ in Unreal Engine or C# in Unity.
 
@@ -52,7 +52,7 @@ A degree shows knowledge, but employers want proven work and the ability to expl
 Select past projects that match the studio’s genre and engine, such as racing games for a racing focused studio, and lead with the strongest. Add notes stating which parts you built yourself and test every build until no glitches remain.
 
 ## References
-
+[^3]: asdasd
 <table>
   <tr>
     <td valign="top">[1]</td>
