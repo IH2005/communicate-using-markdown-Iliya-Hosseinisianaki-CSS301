@@ -18,7 +18,7 @@ Date: 10/27/2026
 - [References](#references)
 
 ## Purpose
-Almost everyone who applies to a game studio loves games, but far fewer can show they’re ready to build them. This guide walks you through four steps for closing that gap before you send a single resume: choosing a game programming specialization, developing the technical foundation that specialization demands, creating personal projects that put those skills to work, and turning your past projects into a portfolio tailored to the studio you want to join. The purpose of this guide is to help you show, not just say, that you’re ready to contribute to a game team, so your application stands out in a competitive field.
+Almost everyone who applies to a game studio loves games, but far fewer can show they’re ready to build them. This guide walks you through four steps for closing that gap before you send a single resume: understanding what a gameplay engineer does, developing the technical foundation that specialization demands, creating personal projects that put those skills to work, and turning your past projects into a portfolio tailored to the studio you want to join. The purpose of this guide is to help you show, not just say, that you’re ready to contribute to a game team, so your application stands out in a competitive field.
 
 ## Understanding your role
 
@@ -44,7 +44,7 @@ Apply to multiple game studios such as Riot Games, Epic Games, and Blizzard. Tai
 ## Creating and publishing games using game engines
 Creating a game on a game engine gives you experience working with that engine, so employers wouldn’t have to spend time training you on it. You also improve your skills creating a game. These games are also used for portfolios. 
 
-Release small, finished projects in the engine your target studio uses, such as Unreal Engine for Epic, and pick a project that exercises your chosen specialization, such as enemy behavior for an AI focus. Publish finished projects on itch.io, Steam, or GameJolt.
+Release small, finished projects in the engine your target studio uses, such as Unreal Engine for Epic, and pick a project that exercises your chosen specialization, such as a player ability or camera system. Show documentation of the project on GitHub and publish it on itch.io, Steam, or GameJolt.
 
 ## Building a tailored technical portfolio using past projects
 A degree shows knowledge, but employers want proven work and the ability to explain the process, and the best portfolios feature work relevant to the studio.
