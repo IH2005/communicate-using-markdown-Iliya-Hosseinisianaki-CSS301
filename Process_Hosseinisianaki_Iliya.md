@@ -25,7 +25,9 @@ Understanding what a gameplay engineer does matters because game programming cov
 
 Go deep on gameplay systems and stay broad only where they meet AI, rendering, and design. Figure 1 shows this as a T: the vertical stem holds the skills to learn in depth, and the horizontal bar holds the neighboring fields, where you need only the part that touches your own code.
 
-<img alt="Gameplay Engineer" src="images/SkillsDiagram.jpg" width="1000" height="1000"><br><sub>© Diagram made using Canva</sub>
+Figure 1: T-shaped skills of a gameplay engineer
+<img alt="Gameplay Engineer" src="images/SkillsDiagram.jpg" width="1000" height="1000">
+<br><sub>© Diagram made using Canva</sub>
 
 ## Building up a specialized technical foundation
 
@@ -83,4 +85,4 @@ Select past projects that match the studio’s genre and engine, such as racing 
   </tr>
 </table>
 
-#### [Word count: 685]
+#### [Word count: 675]
