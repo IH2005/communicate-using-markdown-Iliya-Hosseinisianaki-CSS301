@@ -30,7 +30,7 @@ Go deep on gameplay systems and stay broad only where they meet AI, rendering, a
 ### Taking courses on Coursera
 Coursera provides you with courses that teach you programming languages that game studios require, and it works as a supplement for college courses. There are also courses that teach you how to use those programming skills you have learnt for specific game engines. These courses come from universities and companies such as Stanford and Google, so certifications of completing these courses from them are recognized by potential employers.
 
-Choose courses in the language your target role uses, such as C++ or C#. After finishing one course of the targeted language, take the course that teaches how to use that language in a game engine such as using C++ in Unreal Engine or C# in Unity.
+Take a C++ course first, then the course that teaches how to use C++ in Unreal Engine provided by the University of Colorado.
 
 ### Attending game jams
 A game jam sets a theme and challenges you to create a fully functional game within a limited time frame. Participating in these jams tests your knowledge and abilities, and it helps teach you the importance of prioritizing a cohesive and finished product over an incomplete and ambitious one. The games you make for these game jams are also used for your portfolio. 
@@ -45,7 +45,7 @@ Apply to multiple game studios such as Riot Games, Epic Games, and Blizzard. Tai
 ## Creating and publishing games using game engines
 Creating a game on a game engine gives you experience working with that engine, so employers wouldn’t have to spend time training you on it. You also improve your skills creating a game. These games are also used for portfolios. 
 
-Release small, finished projects in the engine your target studio uses, such as Unreal Engine for Epic, and pick a project that exercises your chosen specialization, such as a player ability or camera system. Show documentation of the project on GitHub and publish it on itch.io, Steam, or GameJolt.
+Release small, finished projects in Unreal Engine that exercise the gameplay systems in Figure 1, such as a player ability or third-person camera. Show documentation of each project on GitHub and publish it on itch.io.
 
 ## Building a tailored technical portfolio using past projects
 A degree shows knowledge, but employers want proven work and the ability to explain the process, and the best portfolios feature work relevant to the studio.
