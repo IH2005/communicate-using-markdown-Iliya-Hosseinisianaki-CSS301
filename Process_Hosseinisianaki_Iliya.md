@@ -1,11 +1,11 @@
 # Best Practices to Become a Gameplay Engineer
 <img alt="Game programmer" src="images/game-developer-banner.png" width="600" height="500"><br><sub>© Image from Zero to Mastery, “How to Become a Game Developer & Get Hired.”</sub>
 
-Prepared for: Husky student pursuing a job as a gameplay engineer
+**Prepared for:** Husky student pursuing a job as a gameplay engineer
 
-Prepared by: Iliya Hosseinisianaki
+**Prepared by:** Iliya Hosseinisianaki
 
-Date: 10/27/2026
+**Date:** 10/27/2026
 ## Table of Contents
 - [Purpose](#purpose)
 - [Understanding the role](#understanding-the-role)
@@ -21,15 +21,14 @@ Date: 10/27/2026
 Almost everyone who applies to a game studio loves games, but far fewer can show they’re ready to build them. This guide walks you through four steps for closing that gap before you send a single resume: understanding what a gameplay engineer does, developing the technical foundation that specialization demands, creating personal projects that put those skills to work, and turning your past projects into a portfolio tailored to the studio you want to join. The purpose of this guide is to help you show, not just say, that you’re ready to contribute to a game team, so your application stands out in a competitive field.
 
 ## Understanding the role
-
-<br><sub>© Venn diagram created on Creately</sub>
+Understanding what a gameplay engineer does matters because game programming covers several specializations, each with their own set of skills. Without knowing the exact skills you need, you might spend months learning about shaders or pathfinding, which belong to rendering and AI programmers, and still lack the skills a gameplay job asks for. Studios like Epic hire against specific requirements, including strong C++, 3D math, and familiarity with Unreal Engine, and expect programmers to work closely with designers and artists. 
 
 ## Building up a specialized technical foundation
 
 ### Taking courses on Coursera
-Coursera provides you with courses that teach you programming languages that game studios require, and it works as a supplement for college courses. There are also courses that teach you how to use those programming skills you have learnt for specific game engines. These courses come from universities and companies such as Stanford and Google, so certifications of completing these courses from them are recognized by potential employers [^1].
+Coursera provides you with courses that teach you programming languages that game studios require, and it works as a supplement for college courses. There are also courses that teach you how to use those programming skills you have learnt for specific game engines. These courses come from universities and companies such as Stanford and Google, so certifications of completing these courses from them are recognized by potential employers.
 
-Choose courses in the language your target role uses, such as C++ or C#. After finishing one course of the targeted language, take the course that teaches how to use that language in a game engine such as using C++ in Unreal Engine or C# in Unity.
+Go deep on gameplay systems and stay broad only where they meet AI, rendering, and design. Figure 1 shows this as a T: the vertical stem holds the skills to learn in depth, and the horizontal bar holds the neighboring fields, where you need only the part that touches your own code. For AI, that means knowing enough to drive NPC attacks and reactions with a state machine. For rendering, it means triggering effects and screen shake from gameplay events. For design, it means building your systems so designers can tune them directly, such as changing a weapon's fire rate without recoding or recompiling the game.
 
 ### Attending game jams
 A game jam sets a theme and challenges you to create a fully functional game within a limited time frame. Participating in these jams tests your knowledge and abilities, and it helps teach you the importance of prioritizing a cohesive and finished product over an incomplete and ambitious one. The games you make for these game jams are also used for your portfolio. 
