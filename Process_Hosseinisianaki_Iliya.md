@@ -23,7 +23,7 @@ Almost everyone who applies to a game studio loves games, but far fewer can show
 ## Understanding the role
 Understanding what a gameplay engineer does matters because game programming covers several specializations, each with their own set of skills.[^2] Without knowing the exact skills you need, you might spend months learning about shaders or pathfinding, which belong to rendering and AI programmers, and still lack the skills a gameplay job asks for.[^2] Studios like Epic set specific requirements for early-career programmers, including strong C++ and familiarity with Unreal Engine, and a strong math background is an added benefit.[^3] Programmers are also expected to work closely with designers and artists.[^2]
 
-Go deep on gameplay systems and stay broad only where they meet AI, rendering, and design. Figure 1 shows this as a T: the vertical stem holds the skills to learn in depth, and the horizontal bar holds the neighboring fields, where you need only the part that touches your own code.
+Go deep on gameplay systems and stay broad only where they meet other disciplines. Figure 1 shows this as a T: the vertical stem holds the skills to learn in depth, and the horizontal bar holds the neighboring fields, where you need only the part that touches your own code.
 
 Figure 1: T-shaped skills of a gameplay engineer
 <img alt="Gameplay Engineer" src="images/SkillsDiagram.jpg" width="1000" height="1000">
@@ -56,7 +56,7 @@ A degree shows knowledge, but employers want proven work and the ability to expl
 
 Select past projects that match the studio’s genre and engine, such as racing games for a racing focused studio, and lead with the strongest. Add notes stating which parts you built yourself and test every build until no glitches remain.[^10]
 
-#### [Word count: 675]
+#### [Word count: 686]
 
 ## References
 
