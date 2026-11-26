@@ -30,7 +30,7 @@ Go deep on gameplay systems and stay broad only where they meet AI, rendering, a
 ### Taking courses on Coursera
 Coursera provides you with courses that teach you programming languages that game studios require, and it works as a supplement for college courses. There are also courses that teach you how to use those programming skills you have learnt for specific game engines. These courses come from universities and companies such as Stanford and Google, so certifications of completing these courses from them are recognized by potential employers.
 
-Take a C++ course first, such as Codio's Programming in C++: A Hands-on Introduction, then a course that teaches how to use C++ in Unreal Engine, such as the University of Colorado's C++ Programming for Unreal Game Development.
+Take a C++ course and a 3D math course first, such as Codio's Programming in C++: A Hands-on Introduction and Packt's Vectors and Intersections in Game Development, then the course that teaches how to use C++ in Unreal Engine, such as the University of Colorado's C++ Programming for Unreal Game Development.
 
 ### Attending game jams
 A game jam sets a theme and challenges you to create a fully functional game within a limited time frame. Participating in these jams tests your knowledge and abilities, and it helps teach you the importance of prioritizing a cohesive and finished product over an incomplete and ambitious one. The games you make for these game jams are also used for your portfolio. 
